@@ -1,4 +1,4 @@
-name: superq2
+name: superq
 channels:
   - gurobi
   - conda-forge

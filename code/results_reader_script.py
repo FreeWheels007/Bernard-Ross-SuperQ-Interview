@@ -336,7 +336,7 @@ def print_pretty(
     return vehicle_info
 
 if __name__ == '__main__':
-    gap = 0.059
+    gap = 0.06
     distance_matrix, demand_vector, number_locations, number_vehicles, vehicle_capacity = read_data(r'..\inputs\cvrp_problem_data.json')
     
     vehicle_info = print_pretty(

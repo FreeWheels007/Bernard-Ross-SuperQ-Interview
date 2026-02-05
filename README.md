@@ -1,6 +1,7 @@
 # Bernard-Ross-SuperQ-Interview
 Bernard Ross SuperQ Interview
 # CVRP MILP Solver (Interview Repo)
+https://docs.google.com/presentation/d/1DyrRxuvW3WnHXNPbc_-Zbu8Tf_qtb6tixyVA9bk6lcc/edit?usp=sharing
 
 This repository contains a **Capacitated Vehicle Routing Problem (CVRP)** solver implemented as a **Mixed-Integer Linear Program (MILP)**. It reads a problem instance from JSON, builds and solves a MILP, and writes the resulting routes + per-vehicle loads to a machine-readable output (JSON), with optional plotting.
 

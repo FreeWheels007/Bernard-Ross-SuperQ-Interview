@@ -2,7 +2,10 @@
 """
 Created on Thu Feb  5 09:58:32 2026
 
-@author: berni
+@author: Bernard
+
+An AI generated script to read the gurobi solution results and 
+display path as text and plot high-level vehicle routes
 """
 
 import json
